@@ -3,3 +3,4 @@ if enter=="yes":
     print("Eat Hungry")
 else:
     print("do home work")
+    
